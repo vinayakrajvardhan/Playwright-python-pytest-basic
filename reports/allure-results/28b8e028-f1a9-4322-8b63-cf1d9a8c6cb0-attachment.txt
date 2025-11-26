@@ -1,0 +1,2 @@
+Step 1: Setting API endpoint to https://fakestoreapi.com/products/1
+Step 2: Sending GET request to the endpoint
