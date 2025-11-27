@@ -1,0 +1,1 @@
+{'bookingid': 401, 'booking': {'firstname': 'Jim', 'lastname': 'Brown', 'totalprice': 1000, 'depositpaid': True, 'bookingdates': {'checkin': '2025-12-15', 'checkout': '2025-12-20'}, 'additionalneeds': 'breakfast'}}
